@@ -288,7 +288,7 @@ void edit_data()
 		{
 			cek=1;
 			ganti:
-				printf("\n\nData yang akan diganti : ");
+				printf("\n\nData yang diedit: ");
 				printf("\n1. Nama");
 				printf("\n2. Jenis Kelamin");
 				printf("\n3. Umur");
